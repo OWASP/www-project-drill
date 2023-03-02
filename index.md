@@ -1,7 +1,7 @@
 ---
 
 layout: col-sidebar
-title: OWASP Drill
+title: OWASP Extensions for Apache Drill
 tags: example-tag
 level: 1
 type: 
