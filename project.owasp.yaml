@@ -1,0 +1,23 @@
+audience:
+  - breaker
+  - builder
+leaders:
+  - name: Charles Givre
+    email: charles.givre@gtkcyber.com
+    github: cgivre
+  - name: Sherif Mansour
+    email: sherif.mansour@owasp.org
+    github: kerberosmansour
+level: 2
+name: OWASP Extensions for Apache Drill
+pitch: The Security Engineer's Data Tool Kit
+repositories:
+  - name: www-project-drill
+    url: https://github.com/OWASP/www-project-drill
+    description: OWASP Foundation Web Repository
+tags:
+  - example-tag
+  - custom-tag-1
+  - custom-tag-2
+type: documentation
+website: https://owasp.org/www-project-drill
